@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sideloadly CLI"
+  short_description: "Sign, install and refresh an IPA with native CLI"
+  default_prompt: "Use $sideloadly-cli to check this Mac and sideload my IPA onto the selected iPhone."

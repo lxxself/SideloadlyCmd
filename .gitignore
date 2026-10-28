@@ -1,0 +1,24 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+build/
+dist/
+.pytest_cache/
+.DS_Store
+*.ipa
+*.mobileprovision
+*.p12
+*.p8
+.env
+.env.*
+*.log
+
+# Local-only development history and runtime material
+.local-dev/
+analysis/
+research/
+*.keychain*
+*.pem
+*.pfx
